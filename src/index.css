@@ -1,5 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Iansui&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap');
 @import "tailwindcss";
 @plugin "daisyui"{
     themes: lofi --default;
+}
+
+@theme{
+    --color-our-main: #FAC3A4;
+    --color-our-black: #000000;
+    --color-our-white: #F9F9F0;
+    --color-our-main2: #F78E76;
+    --text-our-lg: 96pt;
+    --text-out-md: 32pt;
+    --text-our-sm:24pt;
 }
