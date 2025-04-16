@@ -5,7 +5,7 @@ import User from '/user.svg'
 function Header() {
 
     return (
-        <div className="min-h-25 flex flex-row items-center justify-center shadow-md h-20 bg-our-primary">
+        <div className="min-h-25 flex flex-row items-center justify-center shadow-md h-20 bg-our-primary sticky top-0 z-100">
             <div className='flex flex-row items-center justify-between gap-10 max-w-screen-xl w-full px-8'>
                 <div className="flex items-center ">
                     <img src={Logo} alt="Logo" className="h-15" />

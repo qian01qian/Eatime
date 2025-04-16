@@ -6,13 +6,15 @@ import Wheel from './pages/Wheel'
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/All" element={<All />} />
-        <Route path="/Wheel" element={<Wheel />}/>
-      </Routes>
-    </BrowserRouter>
+    <body className='overscroll-none'>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/All" element={<All />} />
+          <Route path="/Wheel" element={<Wheel />} />
+        </Routes>
+      </BrowserRouter>
+    </body >
   )
 }
 
