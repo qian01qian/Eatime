@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router'
 import Home from './pages/Home'
-import Full from './pages/Full'
+import All from './pages/All'
 import Wheel from './pages/Wheel'
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Full" element={<Full />} />
+        <Route path="/All" element={<All />} />
         <Route path="/Wheel" element={<Wheel />}/>
       </Routes>
     </BrowserRouter>
