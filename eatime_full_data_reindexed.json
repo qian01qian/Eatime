@@ -1,0 +1,2260 @@
+[
+  {
+    "ID": 1,
+    "name": "親來食堂",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      0
+    ],
+    "googlemap": "https://maps.app.goo.gl/2Fs548JGb8jNQLPP6"
+  },
+  {
+    "ID": 2,
+    "name": "學餐",
+    "category": 0,
+    "price": 1,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1900
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1900
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1900
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1900
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1900
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      0
+    ],
+    "googlemap": "https://maps.app.goo.gl/Dw8KuEPmDQVBNoXs6"
+  },
+  {
+    "ID": 3,
+    "name": "方最茗品",
+    "category": 2,
+    "price": 1,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1945
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/PcDC2aa8vUL5u5Ld7"
+  },
+  {
+    "ID": 4,
+    "name": "胖胖滷味",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 2300
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/rkF1GBgZ2osNCvot8"
+  },
+  {
+    "ID": 5,
+    "name": "甘蔗の媽媽",
+    "category": 2,
+    "price": 1,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1000,
+            "close": 2100
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/F5xPXdySuDQLAFVc9"
+  },
+  {
+    "ID": 6,
+    "name": "小小餐館",
+    "category": 0,
+    "price": 3,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2100
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2100
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/AdvAS5s6e8y3SxbDA"
+  },
+  {
+    "ID": 7,
+    "name": "珍美味海鮮熱炒",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1700,
+            "close": 200
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1700,
+            "close": 200
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1700,
+            "close": 200
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1700,
+            "close": 200
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1700,
+            "close": 200
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1700,
+            "close": 200
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0
+    ],
+    "googlemap": "https://maps.app.goo.gl/bhGgo6pQBJDPA14L6"
+  },
+  {
+    "ID": 8,
+    "name": "提拉米蘇",
+    "category": 0,
+    "price": 1,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1930
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/eyU64jw9yMVE6tAs8"
+  },
+  {
+    "ID": 9,
+    "name": "大埔鐵板燒",
+    "category": 0,
+    "price": 3,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2330
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0
+    ],
+    "googlemap": "https://maps.app.goo.gl/Jkjq7tMtVZgaTDSz8"
+  },
+  {
+    "ID": 10,
+    "name": "幸福村麵堂",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1145,
+            "close": 1430
+          },
+          {
+            "open": 1640,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1145,
+            "close": 1430
+          },
+          {
+            "open": 1640,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1145,
+            "close": 1430
+          },
+          {
+            "open": 1640,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/W1Wxw7pSCWANR3yP6"
+  },
+  {
+    "ID": 11,
+    "name": "上穎牛肉麵",
+    "category": 0,
+    "price": 3,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 1930
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/hBSSANhiqYqALhaT8"
+  },
+  {
+    "ID": 12,
+    "name": "JJ's POKE",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2000
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0
+    ],
+    "googlemap": "https://maps.app.goo.gl/MAibVgG7ayZxerx59"
+  },
+  {
+    "ID": 13,
+    "name": "阿孟石碗燒河粉",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1140,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1140,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1140,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1140,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1140,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1140,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/fbt1T9oNFtEbL51q6"
+  },
+  {
+    "ID": 14,
+    "name": "師大第一腿",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1400
+          },
+          {
+            "open": 1630,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1400
+          },
+          {
+            "open": 1630,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1400
+          },
+          {
+            "open": 1630,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1400
+          },
+          {
+            "open": 1630,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1400
+          },
+          {
+            "open": 1630,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 1400
+          },
+          {
+            "open": 1630,
+            "close": 2000
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0
+    ],
+    "googlemap": "https://maps.app.goo.gl/tnXNmJWB32k872f8A"
+  },
+  {
+    "ID": 15,
+    "name": "高和食堂",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0,
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/zis5BX9nH5mA7GLv8"
+  },
+  {
+    "ID": 16,
+    "name": "二八麵堂",
+    "category": 0,
+    "price": 1,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1300
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1300
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1300
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1300
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1300
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1300
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0,
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/THc6onSauaQNFKMx7"
+  },
+  {
+    "ID": 17,
+    "name": "蔥燉牛肉麵",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/Cb8GbEpVfv89a2qS8"
+  },
+  {
+    "ID": 18,
+    "name": "李記水餃",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/TY3Zfifq1LpqPnFXA"
+  },
+  {
+    "ID": 19,
+    "name": "話一隻雞",
+    "category": 0,
+    "price": 3,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1130,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/Bn9G3tP4ApicUxTo7"
+  },
+  {
+    "ID": 20,
+    "name": "西村粉食",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0,
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/MYRT6C6F9VwWpsuh7"
+  },
+  {
+    "ID": 21,
+    "name": "五九麵館",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1430
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1430
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1430
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1430
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1430
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1430
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/gc3vN4r9UKHpVMac9"
+  },
+  {
+    "ID": 22,
+    "name": "大易園",
+    "category": 0,
+    "price": 1,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 600,
+            "close": 1300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 600,
+            "close": 1300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 600,
+            "close": 1300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 600,
+            "close": 1300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 600,
+            "close": 1300
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 600,
+            "close": 1300
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/xhEty2bFXitN8bTf7"
+  },
+  {
+    "ID": 23,
+    "name": "笑嘻嘻",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1400
+          },
+          {
+            "open": 1700,
+            "close": 2000
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0,
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/T7xKKDbixXt1kar68"
+  },
+  {
+    "ID": 24,
+    "name": "川雨",
+    "category": 0,
+    "price": 1,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1030,
+            "close": 2000
+          }
+        ]
+      },
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": false,
+        "periods": []
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/gSYr91eoaGidcuZZA"
+  },
+  {
+    "ID": 25,
+    "name": "好吃雞排",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": false,
+        "periods": []
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1500,
+            "close": 0
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1500,
+            "close": 0
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1500,
+            "close": 0
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1500,
+            "close": 0
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1500,
+            "close": 0
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1500,
+            "close": 0
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      3
+    ],
+    "googlemap": "https://maps.app.goo.gl/XHNoWpcSURSo6VUr9"
+  },
+  {
+    "ID": 26,
+    "name": "I'm Pasta",
+    "category": 0,
+    "price": 3,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 1500
+          },
+          {
+            "open": 1700,
+            "close": 2030
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0,
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/7ZSyqCDD23uGQENz8"
+  },
+  {
+    "ID": 27,
+    "name": "四面八方",
+    "category": 0,
+    "price": 2,
+    "openTime": [
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      },
+      {
+        "open": true,
+        "periods": [
+          {
+            "open": 1100,
+            "close": 2030
+          }
+        ]
+      }
+    ],
+    "RoN": [
+      0,
+      1
+    ],
+    "googlemap": "https://maps.app.goo.gl/iKdTssqVmzp7uKPy8"
+  }
+]

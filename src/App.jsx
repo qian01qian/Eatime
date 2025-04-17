@@ -6,7 +6,7 @@ import Wheel from './pages/Wheel'
 
 function App() {
   return (
-    <body className='overscroll-none'>
+    <div>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -14,7 +14,7 @@ function App() {
           <Route path="/Wheel" element={<Wheel />} />
         </Routes>
       </BrowserRouter>
-    </body >
+    </div >
   )
 }
 

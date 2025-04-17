@@ -2,3 +2,7 @@ html,
 body{
     font-family: "Noto Serif TC", serif;
 }
+html, body, #root {
+    height: 100%;
+    overscroll-behavior: none;
+  }
