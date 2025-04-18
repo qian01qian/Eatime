@@ -1,5 +1,5 @@
 import eatime_json from "../../eatime_full_data_reindexed.json";
-import Card from "./Card";
+import Card from "./card";
 
 function Card_set({ className, pick = [] }) {
   // 如果 pick 是空的，就顯示所有；如果有值，就篩選符合的
