@@ -1,5 +1,5 @@
 import eatime_json from "../../eatime_full_data_reindexed.json"
-import Card from "./Card"
+import Card from "./card"
 function Card_set({ className, pick = [] }) {
     return (
         <div className={className}>
