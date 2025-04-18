@@ -5,7 +5,7 @@ function Footer() {
         { to: "/", label: "最新消息" },
         { to: "/All", label: "全部食間" },
         { to: "/Wheel", label: "命運食間" },
-        { to: "/MyEatime", label: "我的食間" },
+        { to: "/", label: "我的食間" },
     ];
 
     const FooterSiteMapContent = () => (

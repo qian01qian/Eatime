@@ -29,7 +29,7 @@ function Banner() {
         <div className="text-left  w-1/2  text-black">
           <p className="text-[64px] font-semibold mb-4">食間，由命運決定</p>
           <button
-            onClick={() => navigate('/page')}
+            onClick={() => navigate('/Wheel')}
             className="bg-[#F9C9A9] text-black px-6 py-2 rounded-full shadow hover:scale-105 transition-transform w-48 h-12 font-bold text-our-sm text-center flex items-center justify-center"
           >
             由此決定 →

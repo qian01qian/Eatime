@@ -7,19 +7,19 @@ const cards = [
         title: ['最新', '消息'],
         buttonText: '由此關心',
         image: '/news.jpg',
-        link: '/news',
+        link: '/',
     },
     {
         title: ['全部', '食間'],
         buttonText: '由此查看',
         image: '/Fortune.jpg',
-        link: '/all',
+        link: '/All',
     },
     {
         title: ['我的', '食間'],
         buttonText: '由此查看',
         image: '/mine.jpg',
-        link: '/my',
+        link: '/',
     },
 ];
 
