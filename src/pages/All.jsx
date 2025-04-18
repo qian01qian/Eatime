@@ -1,13 +1,19 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Page_banner from '../components/Page_banner';
-
-function Full (){
+import Card_key from '../components/Card_set';
+function Full() {
     return (
         <>
-            <Header/>
-            <Page_banner image="/Fortune.jpg" title="全部食間"/>
-            <Footer/>
+            const 
+            <Header />
+            <Page_banner image="/Fortune.jpg" title="全部食間" />
+            <div className="max-w-screen-xl flex flex-row items-center justify-center relative w-full mx-auto overflow-hidden my-10 ">
+                    <div className="overflow-x-auto scrollbar-hide">
+                      <Card_key className="flex flex-row gap-4 w-fit mb-6" />
+                    </div>
+                </div>
+            <Footer />
         </>
     );
-}export default Full;
+} export default Full;
