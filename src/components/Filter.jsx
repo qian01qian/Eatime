@@ -53,9 +53,10 @@ function Filter({state}) {
     }
 
     return (
-        <div className="flex flex-col gap-15 flex-start self-start h-full mr-8">
+        <div className="flex flex-col gap-15 flex-start self-start h-full mr-8 sticky">
             {checkBoxContent.map((x, i)=>(
-                    <div className="flex flex-col text-xl mb-4 gap-5">
+                <div className="flex flex-col text-xl mb-4 gap-5">
+                    <h3 className="text-3xl">{x.checkGroup}</h3>
                     {x.item.map((y, j) => (
                         <div className="flex">
                             <input type="checkbox" defaultunCheck className="checkbox  bg-our-white checked:bg-our-secondary text-our-md mr-3"id={y} name={x.checkGroup} value={j} onChange={handleCheckboxChange} />
