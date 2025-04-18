@@ -1,6 +1,10 @@
 import eatime_json from "../../eatime_full_data_reindexed.json"
+import { useDispatch } from "react-redux";
+import { addNumber, removeNumber } from "../redux/filterAllSlice";
 
 function Filter({state}) {
+    const dispatch = useDispatch();
+
     const checkBoxContent = [
         {
             checkGroup: "種類",
@@ -21,16 +25,40 @@ function Filter({state}) {
     ];
 
     const handleCheckboxChange = (e) => {
-        
+        if(e.target.checked){
+            if(e.target.name == checkBoxContent[0].checkGroup){
+                const filt = eatime_json.filter(x => x.category == e.target.value)
+                const output = filt.map(({ID})=> (ID))
+                dispatch(addNumber(output))
+            }else if(e.target.name == checkBoxContent[1].checkGroup) {
+
+            }else if(e.target.name == checkBoxContent[2].checkGroup) {
+                
+            }else if(e.target.name == checkBoxContent[3].checkGroup) {
+                
+            }
+        }else {
+            if(e.target.name == checkBoxContent[0].checkGroup){
+                const filt = eatime_json.filter(x => x.category == e.target.value)
+                const output = filt.map(({ID})=> (ID))
+                dispatch(removeNumber(output))
+            }else if(e.target.name == checkBoxContent[1].checkGroup) {
+
+            }else if(e.target.name == checkBoxContent[2].checkGroup) {
+                
+            }else if(e.target.name == checkBoxContent[3].checkGroup) {
+                
+            }
+        }
     }
 
     return (
-        <div className="flex flex-col">
+        <div className="flex flex-col gap-15 flex-start self-start h-full mr-8">
             {checkBoxContent.map((x, i)=>(
-                    <div className="flex flex-col text-xl mb-4">
+                    <div className="flex flex-col text-xl mb-4 gap-5">
                     {x.item.map((y, j) => (
                         <div className="flex">
-                            <input type="checkbox" id={y} name={x.checkGroup} value={j} onChange={handleCheckboxChange}/>
+                            <input type="checkbox" defaultunCheck className="checkbox  bg-our-white checked:bg-our-secondary text-our-md mr-3"id={y} name={x.checkGroup} value={j} onChange={handleCheckboxChange} />
                             <label for={y}>{y}</label>
                         </div>
                     ))}
