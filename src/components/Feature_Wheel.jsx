@@ -1,17 +1,18 @@
 import React, { useState } from "react";
-import eatime_json from "../../eatime_full_data_reindexed.json";
 import Card from "./card";
+import { useEatime } from '../react-query';
 
 function Wheel() {
+  const { data, isLoading, isError, error } = useEatime();
   const [picked, setPicked] = useState(() => {
     // 初始隨機一張
-    const randomIndex = Math.floor(Math.random() * eatime_json.length);
-    return eatime_json[randomIndex];
+    const randomIndex = Math.floor(Math.random() * data.length);
+    return data[randomIndex];
   });
 
   const handleFindDestiny = () => {
-    const randomIndex = Math.floor(Math.random() * eatime_json.length);
-    const randomCard = eatime_json[randomIndex];
+    const randomIndex = Math.floor(Math.random() * data.length);
+    const randomCard = data[randomIndex];
     setPicked(randomCard);
   };
 
